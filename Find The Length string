@@ -1,0 +1,10 @@
+//   Q(5).  Write a program to find the length of the string “refrigerator”.
+
+public  class findLength {
+Public static void main (String args[] ) {
+
+String s1 = “refrigerator”;
+System.out.println(s1.Length() );  // ans  12 
+
+}
+}
